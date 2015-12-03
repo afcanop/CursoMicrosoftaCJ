@@ -1,0 +1,53 @@
+body{
+	background-image: url("https://newevolutiondesigns.com/images/freebies/google-material-design-wallpaper-17.jpg");
+	background-size: auto;
+}
+
+
+nav ul li {
+    color:aliceblue;
+}
+
+label{
+	color: #FF0000;
+	text-align: center;
+	font-family: aria;
+	font-size: 20px;
+}
+
+#cosa{
+   text-align: center;
+}
+
+#myModalLabel2{
+    color: RED;
+}
+
+ #carousel-example-generic .item {
+            height: 400px;
+            background-color: #bbb;
+        }
+
+        #carousel-example-generic img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            min-width: 100%;
+            height: 400px;
+        }
+
+
+.login{
+	background-color: #455707;
+	margin: 10%;
+	border-color:#455707; 
+	background-size: size;
+	
+     float: right;
+}
+
+.fotos{
+            
+            height: 150px;
+}
+
